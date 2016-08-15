@@ -1,0 +1,2 @@
+require_relative "FastfoodRestaurant"
+require_relative "GastronimicRestaurant"

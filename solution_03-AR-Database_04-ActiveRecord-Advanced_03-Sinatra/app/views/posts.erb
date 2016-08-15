@@ -1,0 +1,14 @@
+<%= erb :new_post %>
+
+<h2>Posts</h2>
+<ul>
+  <% @posts.each do |post| %>
+    <li>
+      <a href="<%= post.url %>" target="_blank"><%= post.name %> (<%= post.votes %> votes)</a>
+      <form action="/posts/<%= post.id %>/upvote" method="POST">
+        <input type="hidden" name="_method" value="PUT">
+        <input type="submit" value="upvote"/>
+      </form>
+    </li>
+  <% end %>
+</ul>

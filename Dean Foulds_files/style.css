@@ -1,0 +1,53 @@
+/*font-family: 'Roboto', sans-serif;
+*/
+body {
+  background-color: #d9d9d9;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color: gray;
+}
+
+a:hover {
+  color: blue;
+}
+
+.img-round{
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 2px, 2px, 3px, #a8a3a8;
+}
+
+p {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+div {
+  width: 300px;
+  margin: 0 auto;
+  padding: 0px 20px;
+}
+
+.card {
+  background-color: white;
+  text-decoration: none;
+}
+
+.list-inline > li {
+  display: inline-block;
+  text-decoration: none;
+  padding: 0px 20px;
+}
+
+.text-center {
+  text-align: center;
+}

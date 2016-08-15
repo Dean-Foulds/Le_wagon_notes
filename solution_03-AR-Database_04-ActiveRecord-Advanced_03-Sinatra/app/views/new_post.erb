@@ -1,0 +1,18 @@
+<h2>Add new post</h2>
+
+<% if @post.errors.present? %>
+  <p>
+    Unable to create the Post. Please review following errors:<br/>
+    <strong><%= @post.errors.full_messages.join(' and ') %></strong>
+  </p>
+<% end %>
+
+<form action="/posts" method="POST">
+  <label for="name">Name</label>
+  <input type="text" name="name" id="name" value="<%= params[:name] %>"/>
+
+  <label for="name">URL</label>
+  <input type="text" name="url" id="url" value="<%= params[:url] %>"/>
+
+  <input type="submit" value="Add"/>
+</form>

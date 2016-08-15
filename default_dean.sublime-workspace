@@ -1,0 +1,576 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"restaurant	(gastronomic_restaurant.rb)"
+			],
+			[
+				"req",
+				"require_relative	(gastronomic_restaurant.rb)"
+			],
+			[
+				"cli",
+				"client_name"
+			],
+			[
+				"T",
+				"Time.now.hour"
+			],
+			[
+				"n",
+				"now"
+			],
+			[
+				"fi",
+				"fifteen"
+			],
+			[
+				"st",
+				"student2"
+			],
+			[
+				"stu",
+				"student1"
+			],
+			[
+				"com",
+				"comparable	(README.md)"
+			],
+			[
+				"t",
+				"transactions"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"arr",
+				"arry"
+			],
+			[
+				"tra",
+				"transactions"
+			],
+			[
+				"add",
+				"add_transaction"
+			],
+			[
+				"partial",
+				"partial_iban"
+			],
+			[
+				"dead",
+				"dead_at"
+			],
+			[
+				"hei",
+				"height_increase"
+			],
+			[
+				"fr",
+				"fruits"
+			],
+			[
+				"fruit",
+				"fruit_left"
+			],
+			[
+				"hair",
+				"hair_length"
+			],
+			[
+				"co",
+				"conquests"
+			],
+			[
+				"att",
+				"attr_reader"
+			],
+			[
+				"en",
+				"engine_started"
+			],
+			[
+				"has",
+				"has_translation"
+			],
+			[
+				"tr",
+				"translation_json"
+			],
+			[
+				"attempt",
+				"attempt_size"
+			],
+			[
+				"ge",
+				"generate_grid"
+			],
+			[
+				"grid",
+				"grid_size"
+			],
+			[
+				"max",
+				"max_year"
+			],
+			[
+				"cs",
+				"csv_to_array"
+			],
+			[
+				"mov",
+				"movie_array"
+			],
+			[
+				"fil",
+				"file_path"
+			],
+			[
+				"movie",
+				"movie_hash"
+			],
+			[
+				"par",
+				"parse_movie"
+			],
+			[
+				"do",
+				"domain"
+			],
+			[
+				"firt",
+				"first_name"
+			],
+			[
+				"dom",
+				"domain_name"
+			],
+			[
+				"ar",
+				"argument_error"
+			],
+			[
+				"match",
+				"match_data"
+			],
+			[
+				"matc",
+				"match_data"
+			],
+			[
+				"word",
+				"word2"
+			],
+			[
+				"ana",
+				"anagrams_on_steroids"
+			],
+			[
+				"sort",
+				"sort_string"
+			],
+			[
+				"sor",
+				"sort_string"
+			],
+			[
+				"clean",
+				"clean1"
+			],
+			[
+				"cle",
+				"clean2"
+			],
+			[
+				"wor",
+				"word2"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"an",
+				"another_string"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"bet",
+				"better_refrain"
+			],
+			[
+				"ca",
+				"CALORIE_MENU"
+			],
+			[
+				"me",
+				"meal"
+			],
+			[
+				"order",
+				"orders"
+			],
+			[
+				"count",
+				"count_calorie"
+			],
+			[
+				"cou",
+				"count_calorie"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"sum",
+				"sum1"
+			],
+			[
+				"calori",
+				"calorie"
+			],
+			[
+				"cal",
+				"calorie"
+			],
+			[
+				"Me",
+				"MEAL_COMBO"
+			],
+			[
+				"la",
+				"lrg_arr"
+			],
+			[
+				"si",
+				"size_splitter"
+			],
+			[
+				"fin",
+				"final_array"
+			],
+			[
+				"dow",
+				"downcase	(block_gym_spec.rb)"
+			],
+			[
+				"tag",
+				"tag_name"
+			],
+			[
+				"ta",
+				"tag_name"
+			],
+			[
+				"new",
+				"new_array"
+			],
+			[
+				"eve",
+				"even_numbers"
+			],
+			[
+				"ne",
+				"new_array"
+			],
+			[
+				"each_",
+				"each_with_index"
+			],
+			[
+				"COA",
+				"coach"
+			],
+			[
+				"you",
+				"your_message	(coach_answer.rb)"
+			],
+			[
+				"coac",
+				"coach_answer"
+			],
+			[
+				"coa",
+				"coach_answer_enhanced	(coach_answer.rb)"
+			],
+			[
+				"coach",
+				"coach_answer_enhanced"
+			],
+			[
+				"end",
+				"ending	(README.md)"
+			],
+			[
+				"your",
+				"your_message"
+			],
+			[
+				"Ca",
+				"coach_answer"
+			],
+			[
+				"y",
+				"your_message"
+			],
+			[
+				"middle",
+				"middle_name	(compute_name.rb)"
+			],
+			[
+				"sec",
+				"second_name"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"se",
+				"second_name"
+			],
+			[
+				"birt",
+				"birth_day"
+			],
+			[
+				"birth",
+				"birth_month"
+			],
+			[
+				"age",
+				"age_in_days"
+			],
+			[
+				"ag",
+				"age_in_days"
+			],
+			[
+				"ac",
+				"ascending_order"
+			],
+			[
+				"ran",
+				"randomize"
+			],
+			[
+				"sample",
+				"sample_size"
+			],
+			[
+				"di",
+				"divisible_by_two?(6"
+			],
+			[
+				"exactly",
+				"exactly_divide"
+			],
+			[
+				"repla",
+				"replace"
+			],
+			[
+				"bel",
+				"belongs_to"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"last_filter": "bash",
+		"selected_items":
+		[
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Packlist",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Dean/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Dean/Desktop/Le_wagon_notes/restaurant.rb",
+		"/Users/Dean/Desktop/leo.rb",
+		"/Users/Dean/Desktop/thankyou.rb",
+		"/Users/Dean/code/Dean-Foulds/fullstack-challenges/02-OOP/01-OO-Basics/02-Getters-and-Setters/lib/pl",
+		"/Users/Dean/code/Dean-Foulds/fullstack-challenges/02-OOP/01-OO-Basics/01-Define-your-own-class/computer.rb",
+		"/Users/Dean/Desktop/Le_wagon_notes/car.rb",
+		"/Users/Dean/Desktop/Le_wagon_notes/sports_car.rb",
+		"/Users/Dean/debug_demo/demo.rb",
+		"/demo.rb",
+		"/Users/Dean/Desktop/sarah.rb",
+		"/Users/Dean/code/Dean-Foulds/fullstack-challenges/01-Ruby/06-Parsing/02-Numbers-and-Letters/spec/longest_word_spec.rb",
+		"/Users/Dean/Downloads/solution_01-Ruby_05-Regular-Expressions_03-Mail-spotter-3/spec/mail_joke_spec.rb",
+		"/Users/Dean/code/Dean-Foulds/fullstack-challenges/01-Ruby/05-Regular-Expressions/03-Mail-spotter/lib/mail_joke.rb",
+		"/Users/Dean/lampycode.html",
+		"/Users/Dean/Desktop/def acronymize(sentence).rb",
+		"/Users/Dean/Downloads/solution_01-Ruby_03-Iterators-Blocks_03-Splitter/lib/splitter.rb",
+		"/Users/Dean/code/Dean-Foulds/fullstack-challenges/01-Ruby/03-Iterators-Blocks/03-Splitter/lib/splitter.rb",
+		"/Users/Dean/code/Dean-Foulds/fullstack-challenges/01-Ruby/01-Programming-basics/04-Stupid-coaching/README.md",
+		"/Users/Dean/Documents/letter_for_court.doc",
+		"/Users/Dean/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@engine_started",
+			"]}#{:",
+			"join",
+			"sum",
+			"Best",
+			"items",
+			"food",
+			"end"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

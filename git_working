@@ -1,0 +1,30 @@
+git stauts
+git diff <filename>
+
+git add <file1>
+git add <file2>
+git status
+git commit -m "A meaningful message"
+
+
+—————above on local computer———————
+
+—————below to push code———————
+
+git push origin master
+
+
+#lectures
+http://karr.lewagon.org
+
+#Exercise
+http://kitt.lewagon.org/camps/36/set_up_instructions
+
+
+
+
+create repository
+copy command
+git push origin master
+
+
